@@ -1,9 +1,22 @@
 {
   "name": "ismail-coder-theme",
-  "displayName": "Coder Dark Theme",
-  "description": "Coder Dark Theme",
+  "displayName": "Midnight Shadows",
+  "description": "Midnight Shadows",
   "version": "1.0.0",
-  "publisher": "Ismail Coder",
+  "publisher": "IsmailHossin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yotech42/Coder-Dark-Theme"
+  },
+
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "coder theme",
+    "coder dark theme"
+  ],
+
   "engines": {
     "vscode": "^1.80.0"
   },
