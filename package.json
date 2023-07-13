@@ -1,0 +1,22 @@
+{
+  "name": "ismail-coder-theme",
+  "displayName": "Coder Dark Theme",
+  "description": "Coder Dark Theme",
+  "version": "1.0.0",
+  "publisher": "Ismail Coder",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ismail Coder Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ismail Coder Theme-color-theme.json"
+      }
+    ]
+  }
+}
