@@ -4,6 +4,7 @@
   "description": "Midnight Shadows",
   "version": "1.0.0",
   "publisher": "IsmailHossin",
+  "icon": "dark vs icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/yotech42/Coder-Dark-Theme"
